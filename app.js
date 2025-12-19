@@ -19,6 +19,7 @@ const peers = [
     { name: 'Muhamad Amirul Hakim Bin Mohamad Imran', image: 'images/Mohamad_Amirul_Hakim_Bin_Mohamad_Imran.png' },
     { name: 'Muhammad Arif Hakimi Bin Ramlee', image: 'images/Muhammad_Arif_Hakimi_bin_Ramlee.png' },
     { name: 'Muhajid Bin Ismail', image: 'images/Mujahid_Bin_Ismail.png' },
+    { name: 'Nor Athirah Hanim Binti Norizan', image: 'images/NOR_ATHIRAH_HANIM_BINTI_NORIZAN.png' },
     { name: 'Nur Fazlen Idayu Binti Jaharuddin', image: 'images/Nur_Fazlen_Idayu_Binti_Jaharuddin.png' },
     { name: 'Phua Huaysze (Coco)', image: 'images/Phua_Huaysze(Coco).png' },
     { name: 'Pratosh A/L Kannadasan', image: 'images/Pratosh_Kannadasan.png' },
